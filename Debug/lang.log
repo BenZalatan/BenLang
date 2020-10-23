@@ -1,0 +1,12 @@
+﻿  main.c
+C:\Stuff\Comp Sci\lang\string.h(74,6): warning C4101: 'out': unreferenced local variable
+C:\Stuff\Comp Sci\lang\string.h(147,9): warning C4018: '<': signed/unsigned mismatch
+C:\Stuff\Comp Sci\lang\string.h(148,14): warning C4018: '>': signed/unsigned mismatch
+C:\Stuff\Comp Sci\lang\var.h(41,9): warning C4033: 'var_add' must return a value
+C:\Stuff\Comp Sci\lang\var.h(171,10): warning C4101: 'out': unreferenced local variable
+C:\Stuff\Comp Sci\lang\var.h(214,36): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Stuff\Comp Sci\lang\var.h(369,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Stuff\Comp Sci\lang\parser.h(255,7): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Stuff\Comp Sci\lang\parser.h(356,52): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Stuff\Comp Sci\lang\var.h(52): warning C4715: 'var_add': not all control paths return a value
+  lang.vcxproj -> C:\Stuff\Comp Sci\lang\Debug\lang.exe
