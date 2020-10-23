@@ -1,5 +1,5 @@
 # BenLang
-A simple compiler for a very simple custom programming language. As per the usual, this is simply a proof of concept rather than a finished "product".
+A simple compiler for a very simple custom programming language. As per the usual, this is simply a proof of concept rather than a finished "product". This is also a little on the older side, so forgive the large amount of inefficiencies and downright horrible coding practices.
 
 ## Information
 "BenLang" (I really couldn't come up with a better name...?) has a few simple commands.
