@@ -25,7 +25,7 @@ A simple compiler for a very simple custom programming language. As per the usua
 **clear** - Clears the screen.
 
 #### No Command
-**(name) : (type)** - Convert variable with name to a specified type (type can be **INT**, **FLOAT**, or **STRING**).
+**(name) : (type)** - Convert variable with name to a specified type (type can be **INT**, **FLOAT**, or **STRING**).<br/>
 **(name) = (exp)** - Set a variable to the value of a given expression.
 
 ## Examples
